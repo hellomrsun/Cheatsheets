@@ -127,3 +127,17 @@ Package.json:
 
 ![1](./Resources/npm-install-lodash-specific-dependencies-save-exact.PNG)
 
+
+Set prxoy:
+
+````bash
+> npm config set proxy http://{domain}%5C{account}:{password}@{proxy}:{port}
+````
+
+Check proxy:
+
+````bash
+> npm get proxy
+````
+
+You can also check file : C:\Users\\{user_profile}\\.npmrc
