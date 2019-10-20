@@ -83,7 +83,7 @@ lodash package is removed from:
 > Ex: npm install lodash@4.17.4
 ````
 
-![1](./Resources/npm-install-lodash-specific.PNG)
+![1](./Resources/NPM/npm-install-lodash-specific.PNG)
 
 ## Install latest version of package
 
@@ -92,7 +92,7 @@ lodash package is removed from:
 > Ex: npm install lodash@latest
 ````
 
-![1](./Resources/npm-install-lodash-latest.PNG)
+![1](./Resources/NPM/npm-install-lodash-latest.PNG)
 
 ## Install 3.5.*X* version range of package
 
