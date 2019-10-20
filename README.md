@@ -1,9 +1,9 @@
-#Cheat sheets
+#Cheat sheets#
 
 
-##### [NPM cheat sheet](./Npm-cheatsheet.md) #####
+##### [NPM cheat sheet](./Cheatsheets/Npm-cheatsheet.md) #####
 
-##### [Nuget cheat sheet](./Nuget-cheatsheet.md) #####
+##### [Nuget cheat sheet](./Cheatsheets/Nuget-cheatsheet.md) #####
 
-##### [Service status check cheat sheet](./ServicesStatusCheck-cheatsheet.md) #####
+##### [Service status check cheat sheet](./Cheatsheets/ServicesStatusCheck-cheatsheet.md) #####
 

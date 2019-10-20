@@ -1,4 +1,4 @@
-# Npm cheat sheet
+# NPM cheat sheet #
 
 NPM: **Node Package Manager**
 
@@ -10,7 +10,7 @@ You need to install Node.js before use npm.
 > node -v
 ````
 
-![1](./Resources/NPM/node-v.PNG)
+![1](../Resources/NPM/node-v.PNG)
 
 ## Check npm version
 
@@ -18,7 +18,7 @@ You need to install Node.js before use npm.
 > npm -v
 ````
 
-![1](./Resources/NPM/npm-v.PNG)
+![1](../Resources/NPM/npm-v.PNG)
 
 ## Initialize default package.json file
 
@@ -26,7 +26,7 @@ You need to install Node.js before use npm.
 > npm init -y
 ````
 
-![1](./Resources/NPM/npm-init.PNG)
+![1](../Resources/NPM/npm-init.PNG)
 
 ## Install package locally on project
 
@@ -35,7 +35,7 @@ You need to install Node.js before use npm.
 > Ex: npm install lodash
 ````
 
-![1](./Resources/NPM/npm-install-lodash.PNG)
+![1](../Resources/NPM/npm-install-lodash.PNG)
 
 lodash package is installed on:
 
@@ -48,7 +48,7 @@ lodash package is installed on:
 > Ex: npm uninstall lodash
 ````
 
-![1](./Resources/NPM/npm-uninstall-lodash.PNG)
+![1](../Resources/NPM/npm-uninstall-lodash.PNG)
 
 ## Install global package
 
@@ -57,7 +57,7 @@ lodash package is installed on:
 > Ex: npm install lodash -g
 ````
 
-![1](./Resources/NPM/npm-install-lodash-global.PNG)
+![1](../Resources/NPM/npm-install-lodash-global.PNG)
 
 lodash package is installed on:
 
@@ -70,7 +70,7 @@ lodash package is installed on:
 > Ex: npm uninstall lodash -g
 ````
 
-![1](./Resources/NPM/npm-uninstall-lodash-global.PNG)
+![1](../Resources/NPM/npm-uninstall-lodash-global.PNG)
 
 lodash package is removed from:
 
@@ -83,7 +83,7 @@ lodash package is removed from:
 > Ex: npm install lodash@4.17.4
 ````
 
-![1](./Resources/NPM/npm-install-lodash-specific.PNG)
+![1](../Resources/NPM/npm-install-lodash-specific.PNG)
 
 ## Install latest version of package
 
@@ -92,7 +92,7 @@ lodash package is removed from:
 > Ex: npm install lodash@latest
 ````
 
-![1](./Resources/NPM/npm-install-lodash-latest.PNG)
+![1](../Resources/NPM/npm-install-lodash-latest.PNG)
 
 ## Install 3.5.*X* version range of package
 
@@ -101,7 +101,7 @@ lodash package is removed from:
 > Ex: npm install lodash@^3.5.0
 ````
 
-![1](./Resources/NPM/npm-install-lodash-latest-version-titled.PNG)
+![1](../Resources/NPM/npm-install-lodash-latest-version-titled.PNG)
 
 ## Install version range of package and save in package.json
 
@@ -114,7 +114,7 @@ Save is default behavior when package.json file exists.
 
 Package.json:
 
-![1](./Resources/NPM/npm-install-lodash-specific-dependencies.PNG)
+![1](../Resources/NPM/npm-install-lodash-specific-dependencies.PNG)
 
 ## Install version  of package and save the exact version in package.json
 
@@ -125,7 +125,7 @@ Package.json:
 
 Package.json:
 
-![1](./Resources/NPM/npm-install-lodash-specific-dependencies-save-exact.PNG)
+![1](../Resources/NPM/npm-install-lodash-specific-dependencies-save-exact.PNG)
 
 
 Set prxoy:
