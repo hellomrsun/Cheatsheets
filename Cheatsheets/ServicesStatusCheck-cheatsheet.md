@@ -1,4 +1,4 @@
-# Service Status Check Cheatsheet #
+# Service Status Check Cheat sheet #
 
 ### 1. IIS website status check 
 

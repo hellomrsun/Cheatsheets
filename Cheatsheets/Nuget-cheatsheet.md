@@ -1,4 +1,4 @@
-# NUGET Command Cheatsheet #
+# NUGET Command Cheat sheet #
 
 ## 1. Nuget http proxy
 
