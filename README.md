@@ -5,6 +5,8 @@
 
 ##### [Nuget cheat sheet](./Cheatsheets/Nuget-cheatsheet.md) #####
 
+##### [Git cheat sheet](./Cheatsheets/Git-cheatsheet.md) #####
+
 ##### [Service status check cheat sheet](./Cheatsheets/ServicesStatusCheck-cheatsheet.md) #####
 
 ##### [Entity Framework code first cheat sheet](./Cheatsheets/EfCodeFirst-cheatsheet.md) #####
