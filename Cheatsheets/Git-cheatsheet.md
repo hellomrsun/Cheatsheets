@@ -22,7 +22,7 @@
 > git branch -a
 ```
 
-#### Refresh all remote branches information when there are modifications on remote server side
+#### Refresh all local branches information when there are modifications on remote server side, ex: deletion of some branches
 ```bash
 > git remote update origin --prune
 ```
@@ -32,7 +32,13 @@
 > git switch {BranchName}
 ```
 
+#### Push local commit to remote origin
+```bash
+> git push
+```
 
-
-
+#### Create a tag from current branch
+```bash
+> git tag {TagName}
+```
 
