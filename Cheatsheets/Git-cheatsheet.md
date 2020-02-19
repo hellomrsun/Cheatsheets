@@ -57,3 +57,13 @@
 > git push origin --tags
 ```
 
+#### Delete a tag on local git
+```bash
+> git tag -d {TagName}
+```
+
+#### Push a tag deletion on origin remote
+```bash
+> git push --delete origin {TagName}
+```
+
