@@ -47,6 +47,11 @@
 
 ## Tag
 
+#### Display all tags
+```bash
+> git tag
+```
+
 #### Create a tag from current branch
 ```bash
 > git tag {TagName}
