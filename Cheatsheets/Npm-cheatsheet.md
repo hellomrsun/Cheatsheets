@@ -87,12 +87,10 @@ lodash package is removed from:
 
 ````bash
 > Format: npm install package-name@version-number
-> Ex: npm install ng-zorro-antd@9.1.1
+> Ex: npm install ng-zorro-antd@9.1.1 --save
 ````
 
-#### Install version range of package and save in package.json
-
-Save is default behavior when package.json file exists.
+#### Install version range of package and save
 
 Installed last version under 9.2.0.*, which is 9.2.0 itself:
 ````bash
