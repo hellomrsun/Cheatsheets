@@ -11,3 +11,4 @@
 
 ##### [Entity Framework code first cheat sheet](./Cheatsheets/EfCodeFirst-cheatsheet.md) #####
 
+##### [Angular cheat sheet](./Cheatsheets/Angular-Cheatsheet.md) #####
