@@ -13,4 +13,6 @@ or
 
 #### Create module with routing
 
-ng g module {moduleNameWithFullPath} --routing=true
+```cmd
+> ng g module {moduleNameWithFullPath} --routing=true
+```
